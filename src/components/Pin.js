@@ -24,7 +24,7 @@ const Container = styled.div`
   align-items: center;
   box-sizing: border-box;
   cursor: pointer;
-  width: 230px;
+  width: 236px;
 
   img {
     display: flex;
