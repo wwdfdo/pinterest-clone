@@ -24,17 +24,17 @@ const Wrapper = styled.div`
   background-color: white;
   display: flex;
   justify-content: center;
-  margin-top: 20px;
+
   width: 100%;
   height: 100%;
 `;
 
 const Container = styled.div`
   background-color: white;
-
+  text-align: center;
   column-count: 5;
   column-gap: 5px;
-  margin: 0 auto;
+  margin: 100px auto;
   height: 100%;
-  max-width: 1260px;
+  width: 100%;
 `;

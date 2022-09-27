@@ -23,8 +23,9 @@ const Container = styled.div`
   display: flex;
   align-items: center;
   box-sizing: border-box;
+
   cursor: pointer;
-  width: 236px;
+  width: 230px;
 
   img {
     display: flex;

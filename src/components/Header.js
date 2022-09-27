@@ -50,10 +50,12 @@ export default Header;
 const Wrapper = styled.div`
   display: flex;
   align-items: center;
-  height: 56px;
+  min-height: 56px;
   padding: 12px 4px 4px 16px;
   background-color: white;
   color: black;
+  position: fixed;
+  width: 100%;
 `;
 
 const LogoWrapper = styled.div`
@@ -132,7 +134,7 @@ const SearchBarWrapper = styled.div`
 const IconsWrapper = styled.div`
   display: flex;
   margin-left: 20px;
-  margin-right: 10px;
+  margin-right: 30px;
 
   .icon-item {
     padding-left: 16px;
