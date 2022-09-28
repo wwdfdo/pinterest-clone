@@ -1,3 +1,10 @@
+@media (min-width: 452px) and (max-width: 704px) {
+  .mainboard_container {
+    max-width: 704px;
+    column-count: 1;
+  }
+}
+
 @media (min-width: 704px) and (max-width: 756px) {
   .mainboard_container {
     max-width: 704px;
