@@ -17,7 +17,7 @@ export default Pin;
 
 const Wrapper = styled.div`
   display: inline-flex;
-  padding: 8px;
+  padding: 2px;
 `;
 const Container = styled.div`
   display: flex;
@@ -25,7 +25,7 @@ const Container = styled.div`
   box-sizing: border-box;
 
   cursor: pointer;
-  width: 230px;
+  width: 118%;
 
   img {
     display: flex;

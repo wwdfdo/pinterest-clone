@@ -34,7 +34,7 @@ const Container = styled.div`
   text-align: center;
   column-count: 5;
   column-gap: 5px;
-  margin: 100px auto;
+  margin: 100px 10px;
   height: 100%;
   width: 100%;
 `;
